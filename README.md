@@ -12,3 +12,11 @@ Topics covered under Angular 6 course:
 Reference URL : 
 1. https://javabrains.io/courses/angular_basics/
 2. https://angular.io/guide/quickstart
+
+
+
+FlightSearchEngine
+This project was generated with Angular CLI version 6.0.8.
+
+Development server
+Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
