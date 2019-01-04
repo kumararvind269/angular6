@@ -1,0 +1,53 @@
+.navbar {
+    overflow: hidden;
+    background-color: #aed2e6;
+    position: absolute;
+    width: 97.5%;
+    height: 10%;
+    border-radius: 8px;
+  }
+
+  .navbar span {
+    font-size : 35px;
+    margin:20px 20px;
+  }
+
+  .navbar label {
+    font-size: 30px;
+    font-weight: 600;
+    margin-top:20px;
+  }
+
+  .rounded-corners {
+    border-radius: 5px;    
+}
+
+.filter-list-container {
+    padding: 13px;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    background-color : #cfe0e8;
+    height:610px;
+    overflow-y: scroll;
+}
+
+/* 
+Trying to reduce space below the filter when opened in mobile mode
+@media (min-width:520px) and (max-width:730px){
+  filter-list-container{
+    padding: 13px;
+    border-style: solid;
+    border-width: 1px 1px 1px 1px;
+    background-color : #cfe0e8;
+    height:250px;
+    overflow-y: scroll;
+    }
+} */
+
+.filter-container {
+   padding: 13px;
+   border-style: solid;
+   border-width: 1px 1px 1px 1px;
+   background-color : #cfe0e8;
+   height:600px;
+}
